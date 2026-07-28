@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T12:32:29.842Z",
+  "generated_at": "2026-11-10T12:32:32.101Z",
   "items": {
     "problem:31": {
       "kind": "problem",
@@ -169,6 +169,110 @@
       "last_pushed_at": "2026-07-27T17:15:23.029Z",
       "language": "python",
       "lines": 15
+    },
+    "problem:1217": {
+      "kind": "problem",
+      "id": "1217",
+      "title": "Compute TPR and FPR from Classifications",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1217",
+      "path": "problems/1217-compute-tpr-and-fpr-from-classifications",
+      "first_solved_at": "2026-07-28T03:59:59.451Z",
+      "last_pushed_at": "2026-07-28T03:59:59.451Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:17": {
+      "kind": "problem",
+      "id": "17",
+      "title": "K-Means Clustering",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/17",
+      "path": "problems/0017-k-means-clustering",
+      "first_solved_at": "2026-07-28T12:03:08.410Z",
+      "last_pushed_at": "2026-07-28T12:03:08.410Z",
+      "language": "python",
+      "lines": 38
+    },
+    "problem:18": {
+      "kind": "problem",
+      "id": "18",
+      "title": "Implement K-Fold Cross-Validation",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/18",
+      "path": "problems/0018-implement-k-fold-cross-validation",
+      "first_solved_at": "2026-07-28T12:35:29.910Z",
+      "last_pushed_at": "2026-07-28T12:35:29.910Z",
+      "language": "python",
+      "lines": 37
+    },
+    "problem:22": {
+      "kind": "problem",
+      "id": "22",
+      "title": "Sigmoid Activation Function Understanding",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/22",
+      "path": "problems/0022-sigmoid-activation-function-understanding",
+      "first_solved_at": "2026-07-28T15:01:42.378Z",
+      "last_pushed_at": "2026-07-28T15:01:42.378Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:23": {
+      "kind": "problem",
+      "id": "23",
+      "title": "Softmax Activation Function Implementation ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/23",
+      "path": "problems/0023-softmax-activation-function-implementation",
+      "first_solved_at": "2026-07-28T15:11:09.838Z",
+      "last_pushed_at": "2026-07-28T15:11:09.838Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:24": {
+      "kind": "problem",
+      "id": "24",
+      "title": "Single Neuron",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/24",
+      "path": "problems/0024-single-neuron",
+      "first_solved_at": "2026-07-28T16:22:43.239Z",
+      "last_pushed_at": "2026-07-28T16:22:43.239Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:29": {
+      "kind": "problem",
+      "id": "29",
+      "title": "Random Shuffle of Dataset",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/29",
+      "path": "problems/0029-random-shuffle-of-dataset",
+      "first_solved_at": "2026-07-28T16:42:21.152Z",
+      "last_pushed_at": "2026-07-28T16:42:21.152Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:30": {
+      "kind": "problem",
+      "id": "30",
+      "title": "Batch Iterator for Dataset",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/30",
+      "path": "problems/0030-batch-iterator-for-dataset",
+      "first_solved_at": "2026-07-28T17:25:26.806Z",
+      "last_pushed_at": "2026-07-28T17:25:26.806Z",
+      "language": "python",
+      "lines": 20
     }
   }
 }
