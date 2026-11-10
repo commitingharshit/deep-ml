@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T12:32:42.404Z",
+  "generated_at": "2026-11-10T12:32:44.788Z",
   "items": {
     "problem:31": {
       "kind": "problem",
@@ -403,6 +403,32 @@
       "last_pushed_at": "2026-08-06T22:33:55.515Z",
       "language": "python",
       "lines": 32
+    },
+    "problem:46": {
+      "kind": "problem",
+      "id": "46",
+      "title": "Implement Precision Metric",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/46",
+      "path": "problems/0046-implement-precision-metric",
+      "first_solved_at": "2026-11-10T10:15:52.380Z",
+      "last_pushed_at": "2026-11-10T10:15:52.380Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:47": {
+      "kind": "problem",
+      "id": "47",
+      "title": "Implement Gradient Descent Variants with MSE Loss",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/47",
+      "path": "problems/0047-implement-gradient-descent-variants-with-mse-loss",
+      "first_solved_at": "2026-11-10T10:43:57.634Z",
+      "last_pushed_at": "2026-11-10T10:43:57.634Z",
+      "language": "python",
+      "lines": 36
     }
   }
 }
